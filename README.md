@@ -1,6 +1,6 @@
 # CPPN Demo
 
-(Compositional pattern-producing network)[https://en.wikipedia.org/wiki/Compositional_pattern-producing_network] demo
+[Compositional pattern-producing network](https://en.wikipedia.org/wiki/Compositional_pattern-producing_network) demo
 
 
 ## Installation
